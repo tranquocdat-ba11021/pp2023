@@ -9,6 +9,8 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Tran Quoc Dat
+* Student ID: BA11-021
+* Group :G1
+
 
